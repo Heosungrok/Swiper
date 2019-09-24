@@ -1,0 +1,2 @@
+CSS 파일 : /dist/css/swiper.min.css
+JS 파일 : /dist/js/swiper.min.js
